@@ -1,36 +1,3 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -52,7 +19,7 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
+<!-- - [❓ FAQ](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -84,9 +51,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[scientific calculator]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,13 +142,13 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
+Github pages
 
-```sh
 
-```
- -->
+<!-- ``` Github pages
+
+``` -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -212,9 +178,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- **[Scientific calculator]**
+- **[Home page]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,13 +208,13 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+> Microverse team.
 
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+<!-- FAQ (optional)
 
 ## ❓ FAQ <a name="faq"></a>
 
@@ -262,7 +228,7 @@ I would like to thank...
 
   - [Answer_2]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
