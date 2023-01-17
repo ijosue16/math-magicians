@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Project setup] <a name="about-project"></a>
+# 📖 [calculator UI] <a name="about-project"></a>
 
-> This is the first setup of react in my repository.
+> This is the first setup of react calculator app.
 
-**[Project setup]** This is the first setup of react in my repository
+**[calculator UI]** This is the first setup of react calculator app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +51,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[scientific calculator]**
+- **[scientific calculator UI]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -178,8 +178,8 @@ Github pages
 
 > Describe 1 - 3 features you will add to the project.
 
-- **[Scientific calculator]**
-- **[Home page]**
+- **[home page]**
+- **[Add functionality]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
