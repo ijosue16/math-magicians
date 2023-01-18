@@ -26,9 +26,9 @@
 
 # 📖 [calculator UI] <a name="about-project"></a>
 
-> This is the first setup of react calculator app.
+> This is the first setup of react calculator app with its functionality.
 
-**[calculator UI]** This is the first setup of react calculator app.
+**[calculator UI]** This is the first setup of react calculator app with its functionality.
 
 ## 🛠 Built With <a name="built-with"></a>
 
