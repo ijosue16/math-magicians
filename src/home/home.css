@@ -1,8 +1,9 @@
 .home {
-    width: 100vw;
+  width: 100vw;
 }
 
-p, h4 {
-    font-family: 'Comic Neue', sans-serif;
-    font-weight: 700; 
+p,
+h4 {
+  font-family: 'Comic Neue', sans-serif;
+  font-weight: 700;
 }

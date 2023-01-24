@@ -1,8 +1,10 @@
 .quote {
-    /* background-color: aqua; */
-    height: 100vh;
+  /* background-color: aqua; */
+  height: 100vh;
 }
-p, h4 {
-    font-family: 'Comic Neue', sans-serif;
-    font-weight: 700; 
+
+p,
+h4 {
+  font-family: 'Comic Neue', sans-serif;
+  font-weight: 700;
 }

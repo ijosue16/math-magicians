@@ -18,7 +18,9 @@
   background-color: #858694;
   font-size: larger;
 }
-p, h4 {
+
+p,
+h4 {
   font-family: 'Comic Neue', sans-serif;
-  font-weight: 700; 
+  font-weight: 700;
 }
