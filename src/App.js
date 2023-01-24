@@ -1,4 +1,3 @@
-/* eslint-disable react/prefer-stateless-function */
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Calculator from './components/Calculator';
@@ -17,11 +16,6 @@ class App extends React.Component {
     return (
       <>
         <Router>
-          {/* <nav>
-            <Link to="/">Home</Link>
-            <Link to="/calculator">Calculator</Link>
-            <Link to="/qoute">Qoute</Link>
-          </nav> */}
           <NavBar />
           <Routes>
             <Route path="/" element={<Home />} />
@@ -29,7 +23,6 @@ class App extends React.Component {
             <Route path="/qoute" element={<Qoute />} />
           </Routes>
         </Router>
-        {/* <Calculator /> */}
       </>
     );
   }
