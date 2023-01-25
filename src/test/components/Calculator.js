@@ -1,8 +1,7 @@
 /* eslint-disable react/prefer-stateless-function */
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../index.css';
-import calculate from './logic/calculate';
+import calculate from '../../components/logic/calculate';
 
 const Calculator = () => {
   const [value, setCalculator] = useState({

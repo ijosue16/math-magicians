@@ -1,4 +1,4 @@
-import operate from '../logic/operate';
+import operate from "./operate";
 
 const numbers = {
   value1: 2,
