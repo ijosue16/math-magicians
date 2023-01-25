@@ -1,4 +1,3 @@
-/* eslint-disable react/prefer-stateless-function */
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import calculate from './logic/calculate';

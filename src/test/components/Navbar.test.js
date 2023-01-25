@@ -2,7 +2,7 @@ import React from 'react';
 import '@testing-library/jest-dom';
 import { cleanup } from '@testing-library/react';
 import renderer from 'react-test-renderer';
-import NavBar from './Navbar';
+import NavBar from '../../Navigation/Navbar';
 
 afterEach(cleanup);
 
