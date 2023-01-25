@@ -3,7 +3,7 @@ import '@testing-library/jest-dom';
 import { render, screen, cleanup } from '@testing-library/react';
 import renderer from 'react-test-renderer';
 import Qoute from './qoute';
-import NavBar from '../components/Navbar';
+import NavBar from './Navbar';
 
 afterEach(cleanup);
 

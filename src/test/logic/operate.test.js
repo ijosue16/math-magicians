@@ -1,4 +1,4 @@
-import operate from "./operate";
+import operate from './operate';
 
 const numbers = {
   value1: 2,

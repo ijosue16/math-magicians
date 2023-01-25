@@ -1,4 +1,4 @@
-import calculate from "./calculate";
+import calculate from './calculate';
 
 describe('Check calculator button functionality', () => {
   test('AC Button test', () => {

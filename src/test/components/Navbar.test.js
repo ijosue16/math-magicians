@@ -7,8 +7,8 @@ import NavBar from './Navbar';
 afterEach(cleanup);
 
 describe('render home page', () => {
-    test('to match snapshot', () => {
-      const tree = renderer.create(<NavBar />).toJSON();
-      expect(tree).toMatchSnapshot();
-    });
+  test('to match snapshot', () => {
+    const tree = renderer.create(<NavBar />).toJSON();
+    expect(tree).toMatchSnapshot();
   });
+});
