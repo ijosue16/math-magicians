@@ -10,7 +10,7 @@ const numbers = {
 
 describe('calculations with operate function', () => {
   test('operate to return 6', () => {
-    expect(Number(operate(numbers.value1, numbers.value2, '+'))) .toBe(6);
+    expect(Number(operate(numbers.value1, numbers.value2, '+'))).toBe(6);
   });
   test('operate to return 63', () => {
     expect(Number(operate(numbers.value3, numbers.value4, 'x'))).toBe(63);
