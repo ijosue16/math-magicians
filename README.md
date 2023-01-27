@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [calculator UI] <a name="about-project"></a>
+# 📖 [Math magician] <a name="about-project"></a>
 
-> This is the first setup of react calculator app with its functionality.
+> This is app helps people to calculate and increase their passion for math.
 
-**[calculator UI]** This is the first setup of react calculator app with its functionality.
+**[Math magician]**  This is app helps people to calculate and increase their passion for math
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,7 +49,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[scientific calculator UI]**
 
@@ -60,9 +59,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [No live demo link](https://yourdeployedapplicationlink.com)
+- [live demo link](https://math-magician-355c.onrender.com/qoute)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +68,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -156,7 +153,6 @@ Github pages
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -198,7 +194,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project...
 
@@ -218,7 +213,6 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
